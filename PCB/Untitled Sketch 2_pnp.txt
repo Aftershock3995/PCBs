@@ -1,0 +1,44 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Untitled Sketch 2
+*Date=17:37:01
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;TO220 [THT];68.3365;-43.866;90;Bottom;7805T
+2;;;3.3528;-42.1464;0;Bottom;Via5
+3;;;21.924;-38.9858;90;Bottom;Arduino Nano
+4;;[THT];4.56233;-22.1159;-90;Bottom;BNT 1
+5;;;28.956;-81.7704;0;Bottom;Via7
+6;;TO220 [THT];55.8365;-23.866;90;Bottom;TIP 120
+7;;;15.5448;-44.5848;0;Bottom;Via2
+8;;THT;84.8205;-43.243;0;Bottom;2 pin
+9;;;30.6856;-1.74085;0;Bottom;TXT6
+10;10;THT;5.50249;-13.866;0;Bottom;10k
+11;;;9.57988;-4.40693;0;Bottom;TXT5
+12;;THT;84.8205;-10.493;0;Bottom;3 pin
+13;;TO220 [THT];55.8365;-11.366;90;Bottom;TIP 120
+14;;;70.565;-27.1745;-90;Bottom;SRD relay
+15;;;36.8808;-19.5912;0;Bottom;Via1
+16;10;THT;59.3125;-25.056;-90;Bottom;2.2k
+17;;THT;51.8125;-41.286;-90;Bottom;Pot
+18;;;31.3944;-28.1256;0;Bottom;Via6
+19;;THT;84.8205;-27.993;0;Bottom;3 pin
+20;;;32.9625;-23.866;90;Bottom;IO
+21;;;10.0584;-23.8584;0;Bottom;Via8
+22;;;70.565;-9.67447;-90;Bottom;SRD relay
+23;10;THT;18.0024;-13.866;0;Bottom;10k
+24;;;41.3165;-68.4101;0;Bottom;LCD
+25;10;THT;59.3125;-12.556;-90;Bottom;2.2k
+26;;;9.4488;-80.5512;0;Bottom;Via3
+27;;[THT];14.5623;-22.1159;-90;Bottom;BTN 2
+28;;;14.3256;-42.756;0;Bottom;Via9
+29;;;41.148;-27.516;0;Bottom;Via4
